@@ -1,0 +1,5 @@
+home task 1 score: 10.0
+home task 2 score: 9.0
+mid term test score: 25.0
+examination score: 50.0
+Student's total score: 94.0
